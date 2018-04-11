@@ -18,6 +18,17 @@ ul {
 body {
   font-family: Roboto;
 }
+
+li {
+  background: #fff;
+  height: 40px;
+  line-height: 40px;
+  color: #666;
+}
+li:nth-child(2n) {
+  background: #f7f7f7;
+}
+
 #container {
   width: 360px;
   margin: 100px auto; //100px, gives the top and bottom margin, auto centers the div on the webpage
