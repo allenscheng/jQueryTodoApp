@@ -25,8 +25,25 @@ li {
   line-height: 40px;
   color: #666;
 }
+
 li:nth-child(2n) {
   background: #f7f7f7;
+}
+
+input {
+  font-size: 18px;
+  background: #f7f7f7;
+  width: 100%;
+  padding: 13px 13px 13px 20px;
+  box-sizing: border-box;
+  color: #2980b9;
+}
+
+input:focus {
+  /*this styles when the input box is clicked*/
+  background: white;
+  border: 3px solid #2980b9;
+  outline: none;
 }
 
 #container {
