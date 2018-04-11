@@ -8,6 +8,10 @@ h1 {
   font-weight: normal;
 }
 
+.fa-plus-square {
+  float: right;
+}
+
 ul {
   list-style: none;
   /*above removes the bullet points*/
