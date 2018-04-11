@@ -12,7 +12,7 @@
 </head>
 <body>
   <div id="container">
-    <h1>To-Do List <span id="toggle-form"><i class="fa fa-plus-square"></i></span></h1>
+    <h1>To-Do Lyst <span id="toggle-form"><i class="fa fa-plus-square"></i></span></h1>
     <input type="text" name="" placeholder="Add New Todo">
     <ul>
     </ul>
