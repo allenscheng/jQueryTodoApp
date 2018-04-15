@@ -21,3 +21,4 @@
   <script type="text/javascript" src="assets/js/todoApp.js"></script>
 </body>
 </html>
+<!-- link to app https://todo-lyst-app.herokuapp.com -->
